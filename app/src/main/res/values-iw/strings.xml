@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">מעשר</string>
+    <string name="name">שם</string>
+    <string name="sumplus">זכות</string>
+    <string name="summinus">מינוס</string>
+    <string name="date">תאריך</string>
+    <string name="totalsum">סה"כ</string>
+    <string name="new_action">פעולה חדשה</string>
+    <string name="history">היסטוריה</string>
+    <string name="your_account_status">מצב החשבון שלך</string>
+    <string name="sum">סכום</string>
+    <string name="action_name">שם פעולה</string>
+    <string name="save">שמירה</string>
+    <string name="cancel">ביטול</string>
+    <string name="plus">פלוס</string>
+    <string name="enter_name">הכנס שם</string>
+    <string name="enter_sum">הכנס סכום</string>
+</resources>

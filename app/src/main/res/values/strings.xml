@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Maasrot</string>
+    <string name="name">name</string>
+    <string name="sumplus">sum Plus</string>
+    <string name="summinus">sum Minus</string>
+    <string name="totalsum">total Sum</string>
+    <string name="new_action">New Action</string>
+    <string name="history">History</string>
+    <string name="your_account_status">Your account status</string>
+    <string name="sum">Sum</string>
+    <string name="action_name">Action name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="plus">plus</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_sum">Enter sum</string>
+    <string name="date">date</string>
+</resources>
